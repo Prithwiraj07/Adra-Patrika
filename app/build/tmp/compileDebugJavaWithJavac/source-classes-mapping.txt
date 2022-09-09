@@ -1,0 +1,4 @@
+com/example/adra_patrika/BuildConfig.java
+ com.example.adra_patrika.BuildConfig
+com/example/adra_patrika/MainActivity.java
+ com.example.adra_patrika.MainActivity
